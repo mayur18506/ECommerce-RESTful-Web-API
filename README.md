@@ -20,3 +20,4 @@ A secure, scalable backend REST API built for e-commerce operations including us
 3. Open **Package Manager Console** and run:
    ```powershell
    Update-Database
+ 
